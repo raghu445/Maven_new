@@ -1,4 +1,4 @@
-node('master') 
+node('Slave1') 
 {
     stage('ContinuousDownload_test')
     {
